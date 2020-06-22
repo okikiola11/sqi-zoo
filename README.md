@@ -17,3 +17,28 @@ The Answers are grouped accordingly as specified by the tutorial:
 - More JOIN
 - Using NULL
 - Self JOIN
+
+## Author
+- Okikiola Apelehin
+
+- Github: [@okikiola11](https://github.com/okikiola11)
+- Twitter: [@Kikiolla3](https://twitter.com/Kikiolla3)
+- Linkedin: [@okikiola-apelehin](https://www.linkedin.com/in/okikiola-apelehin-459008122/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/okikiola11/ruby-capstone/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Google 
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
