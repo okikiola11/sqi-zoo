@@ -5,7 +5,7 @@ This project consists of the solution to SQLZOO exercises 0 - 9
 - MySQL
 
 ## Description
-This project mainly describes how to use queries with MySQL. The task was to complete tutorials on <a href="https://sqlzoo.net/">SQLZOO</a>
+This project describes how to use queries with MySQL. This tasks or tutorials can be found on <a href="https://sqlzoo.net/">SQLZOO</a>
 
 The Answers are grouped accordingly as specified by the tutorial:
 - SELECT basics
