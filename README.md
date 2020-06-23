@@ -2,7 +2,7 @@
 This project consists of the solution to SQLZOO exercises 0 - 9
 
 ## Built With
-- MySQL
+- SQL
 
 ## Description
 This project describes how to use queries with MySQL. This tasks or tutorials can be found on <a href="https://sqlzoo.net/">SQLZOO</a>
@@ -29,7 +29,7 @@ The Answers are grouped accordingly as specified by the tutorial:
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/okikiola11/ruby-capstone/issues).
+Feel free to check the [issues page](https://github.com/okikiola11/sql-zoo/issues).
 
 ## Show your support
 
@@ -38,6 +38,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Google 
+- Odin Project
 
 ## 📝 License
 
