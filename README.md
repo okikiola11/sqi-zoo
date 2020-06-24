@@ -39,6 +39,7 @@ Give a ⭐️ if you like this project!
 
 - Google 
 - Odin Project
+- SQLZOO
 
 ## 📝 License
 
